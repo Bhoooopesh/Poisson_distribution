@@ -34,8 +34,6 @@ Developed by : P Bhoopesh
 Register number : 24001306
 ```
 ```
-Developed by : Priyanka.A
-Register number : 212222230113
 
 import numpy as np
 import math
